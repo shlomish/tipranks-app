@@ -1,0 +1,107 @@
+[
+    {
+        "label": "American Apparel Inc",
+        "ticker": null,
+        "value": "APP",
+        "category": "ticker",
+        "uid": "e5e82c3e"
+    },
+    {
+        "label": "AppFolio",
+        "ticker": null,
+        "value": "APPF",
+        "category": "ticker",
+        "uid": "2dd27e8c"
+    },
+    {
+        "label": "Digital Turbine Inc",
+        "ticker": null,
+        "value": "APPS",
+        "category": "ticker",
+        "uid": "cd859422"
+    },
+    {
+        "label": "ProShares UltraShort MSCI Brazil Capped",
+        "ticker": null,
+        "value": "BZQ",
+        "category": "etf",
+        "uid": "1f3d0826"
+    },
+    {
+        "label": "iShares MSCI Chile Capped",
+        "ticker": null,
+        "value": "ECH",
+        "category": "etf",
+        "uid": "45dc457e"
+    },
+    {
+        "label": "iShares MSCI Israel Capped",
+        "ticker": null,
+        "value": "EIS",
+        "category": "etf",
+        "uid": "86bca394"
+    },
+    {
+        "label": "Hilliard Lyons",
+        "ticker": null,
+        "value": "Andrew Stapp",
+        "category": "analyst",
+        "uid": "6335cb860d05604e8d1bffb9b306fdc539743997"
+    },
+    {
+        "label": "Canaccord Genuity",
+        "ticker": null,
+        "value": "Aravinda Galappatthige",
+        "category": "analyst",
+        "uid": "dba490ac11099f2eaa7ed00ff5c8f975f278d163"
+    },
+    {
+        "label": "Barclays",
+        "ticker": null,
+        "value": "Barry Knapp",
+        "category": "analyst",
+        "uid": "86dfb0cb989a830ac17ce4d5da04c5d499e70c52"
+    },
+    {
+        "label": "Seeking Alpha",
+        "ticker": null,
+        "value": "AppHead",
+        "category": "blogger",
+        "uid": "36f79c13de9b52a151ee4750cdca5ec62f672e93"
+    },
+    {
+        "label": "Seeking Alpha",
+        "ticker": null,
+        "value": "Apple Grade Stocks",
+        "category": "blogger",
+        "uid": "84923324c7b2aafff826db751bd5bb762e87565e"
+    },
+    {
+        "label": "Seeking Alpha",
+        "ticker": null,
+        "value": "Brad Pappas",
+        "category": "blogger",
+        "uid": "1d61b52b9d3590bfe4eec2ae7e78b1646df9ba97"
+    },
+    {
+        "label": "TERP",
+        "ticker": null,
+        "value": "Appaloosa LP",
+        "category": "insider",
+        "uid": "4024341b2e2ab19465faaf6488c4eb37526dfc6c"
+    },
+    {
+        "label": "EMCI",
+        "ticker": null,
+        "value": "Appenzeller Melissa J.",
+        "category": "insider",
+        "uid": "4955fd8ba689c872d14472a524ee60512d3f4be7"
+    },
+    {
+        "label": "VRX",
+        "ticker": null,
+        "value": "APPIO THOMAS",
+        "category": "insider",
+        "uid": "b02b03e60f7c0f2180f113a96e037f8df5727fae"
+    }
+]
